@@ -46,8 +46,5 @@ public class ObserverManager : MonoBehaviour
 
         Debug.LogError("Subject not found");
     }
-
-    
-
     
 }
