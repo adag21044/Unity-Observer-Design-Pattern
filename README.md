@@ -1,5 +1,4 @@
-# Unity Observer Pattern Movement System
-
+# Unity Observer Pattern 
 This project implements a movement system in Unity using the Observer Pattern. The system includes a panel to send movement commands and a movement system that responds to these commands.
 
 ## Project Structure
